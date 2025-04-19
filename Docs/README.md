@@ -1,21 +1,19 @@
-# ***Landing Page -Atividade Desenvolvimento Web***
+# ***Página para Divulgar Sustentabilidade Escola Primo Pozzatto***
 
 
 ## Sobre o projeto
 
-- Landing Page desenvolvida como atividade avaliativa da Disciplina de Desenvolvimento Web do Curso de Análise e Desenvolvimento de Sistemas.
+- Landing Page desenvolvida como atividade para a disciplina Projeto Integrador
   
-- Um dos objetivos de uma Landing Page é a divulgação de algo com o intuíto de captar interresados. Este projeto se trata de uma Landing Page turística, com o objetivo de atrair visitantes para o Distrito de Ernesto Alves, da Cidade de Santiago RS.
+-  Este projeto se trata de uma página web desenvolvida juntamente com o alunos com o intuito de divulgar a sustentabilidade e mostrar a utilização do HTML e CSS para o desenvolvimento WEB.
   
-- Foi utilizado o editor Visual Studio Code(VS Code), para a edição do projeto Html , CSS e Javascript.
+- Foi utilizado o editor Visual Studio Code(VS Code), para a edição do projeto Html e CSS. 
 
 - CSS aplicado para a instilização da página.
   
-- JavaScript utilizado para validações e funções.
+
   
-- Bibliotecas Bootstrap e jQuary, utilizadas no desenvolvimento da página.
-  
--  Acesso em: https://jennifer-cabral.github.io/Landing-Page--Atividade-Desenv.-Web/.
+-  Acesso em: https:
   
 ### Autor
 
