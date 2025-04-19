@@ -149,19 +149,6 @@ body{
     
 
 }
-.conteudo-eventos-titulo{
-    padding: 5% 5% 2%;
-    text-align: center;
-    font-family:cursive;
-    text-shadow: 2px 2px 2px rgb(3, 63, 3);
-}
-.conteudo-eventos{
-   display: flex;
-   flex-direction:row;
-   justify-content: space-between;
-   padding: 0 5%;
-
-}
 
 
 
