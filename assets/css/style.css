@@ -166,7 +166,7 @@ input, textarea{
         color: #124701;
         text-shadow: 1px 1px 1px #fff;}
      
-    .conteudo-pontosTuristicos, .conteudo-eventos{
+    .conteudo-praticas{
         flex-direction: column;
         align-items: center;}
           
