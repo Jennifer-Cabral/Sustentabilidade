@@ -131,8 +131,8 @@ body{
     
 }
 .card:hover{
-    box-shadow: 0 0 12px #124701 ;
-    border: solid 1px #124701;
+    box-shadow: 0 0 12px #010649;
+    border: solid 1px #010649;
     scale: 1.1;
 }
 .card-img {
@@ -163,8 +163,8 @@ input, textarea{
     .logo{
         font-family: "Pacifico", cursive;
         font-size: 30px;
-        color: #124701;
-        text-shadow: 1px 1px 1px #fff;}
+        color: #fff;
+        text-shadow: 1px 1px 1px #010649;}
      
     .conteudo-praticas{
         flex-direction: column;
