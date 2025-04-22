@@ -7,8 +7,8 @@
 body{
     font-size: 100%;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(88, 169, 223);
-    color: rgb(4, 2, 31);
+    background-color: rgb(78, 148, 196);
+    color: #fff;
 }
 
  .cabecalho{
@@ -17,7 +17,7 @@ body{
     right: 0;
     left: 0;
     z-index: 1030;
-    background-color: rgb(67, 5, 238);
+    background-color: rgb(41, 118, 233);
     box-shadow: 0 0 5px #fff; 
     display: flex;
     flex-direction: row;
@@ -31,7 +31,7 @@ body{
     font-family: "Pacifico", cursive;
     font-size: 35px;
     color: #fff;
-    text-shadow: 1px 1px 1px #fff;
+    text-shadow: 2px 2x 2px #010649;
 }
 
      
@@ -50,14 +50,14 @@ body{
     font-family: cursive;
     color:white;  
     text-decoration: none;
-    text-shadow: 2px 2px 2px rgb(3, 63, 2);
+    text-shadow: 2px 2px 2px rgb(1, 56, 100);
       
 }
 .cabecalho-menu-item:hover{
-    background-color:#fff;
-    box-shadow: 0 0 12px #124701 ;
+    background-color:#a1d7f7;
+    box-shadow: 0 0 12px blue ;
     border-radius: 0.5rem;
-    color:rgb(6, 117, 6);
+    color:#100147;
     transition: .4s;
     cursor: pointer;
 }
@@ -79,7 +79,7 @@ body{
     font-family:cursive;
     padding: 6% 0% 2%;
     text-align: center;
-    text-shadow: 2px 2px 2px rgb(3, 63, 3);
+    text-shadow: 2px 2px 2px #100147;
 }
 .conteudo-sustentabilidade-capitulo{
     font-size:20px;
@@ -113,7 +113,7 @@ body{
    text-align: center;
    padding:  10% 5% 0%;
    font-family:cursive;
-   text-shadow: 2px 2px 2px rgb(3, 63, 3);
+   text-shadow: 2px 2px 2px #100147;
 } 
 .conteudo-praticas{
    display: flex;
